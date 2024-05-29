@@ -2,7 +2,7 @@
 A Students' app
 
 <p align = "center">
-    <img src = "https://github.com/offbeatshq/Offbeats-App/assets/offbeats_logo.png" alt = "Offbeats Logo" />
+    <img src = "https://github.com/Offbeatshq/Offbeats-App/blob/main/assets/offbeats_logo.png" alt = "Offbeats Logo" />
 </p>
 
 ## 📖 Introduction 
